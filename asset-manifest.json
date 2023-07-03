@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sonu_portfolio/static/css/main.8d3d84c4.css",
+    "main.js": "/sonu_portfolio/static/js/main.49627450.js",
+    "static/js/787.18271493.chunk.js": "/sonu_portfolio/static/js/787.18271493.chunk.js",
+    "static/media/imagekd.jpg": "/sonu_portfolio/static/media/imagekd.8fe0a08e705eeeb5d163.jpg",
+    "static/media/me.png": "/sonu_portfolio/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/portfolio5.png": "/sonu_portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/sonu_portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/sonu_portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/sonu_portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/sonu_portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/cv.pdf": "/sonu_portfolio/static/media/cv.576df801e3f1942f7a9f.pdf",
+    "static/media/portfolio4.jpg": "/sonu_portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/sonu_portfolio/index.html",
+    "main.8d3d84c4.css.map": "/sonu_portfolio/static/css/main.8d3d84c4.css.map",
+    "main.49627450.js.map": "/sonu_portfolio/static/js/main.49627450.js.map",
+    "787.18271493.chunk.js.map": "/sonu_portfolio/static/js/787.18271493.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d3d84c4.css",
+    "static/js/main.49627450.js"
+  ]
+}
